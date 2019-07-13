@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: gold;
+    font-family: monospace;
+    font-size: 20px;
+}
+div {
+    color: black;
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 6px;
+}
+
+input {
+    padding: 2px;
+}
+
+p {
+    margin: 10px;
+}
+
+.btnHasil {
+    padding: 2px;
+    background-color: darkorchid;
+    color: black;
+}
+
+.btnClear {
+    padding: 2px;
+    background-color: darkred;
+    color: whitesmoke;
+}
